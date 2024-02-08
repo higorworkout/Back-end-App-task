@@ -1,0 +1,7 @@
+npm i -s express body-parser cors consign
+
+npm i -s bcrypt-nodejs jwt-simple passport
+
+ npm i -s passport-jwt
+
+ laucher pm2
